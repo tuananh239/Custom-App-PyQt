@@ -9,4 +9,5 @@ if __name__  == "__main__":
     win = application.Application()
     win.show()
 
+    print("App is running!")
     sys.exit(app.exec_())
